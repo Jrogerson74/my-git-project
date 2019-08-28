@@ -4,4 +4,4 @@ print('Hi from another dev')
 
 
 def hi_there():
-    print("Hi!")
+    print("Zombies say hello")
