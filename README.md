@@ -6,4 +6,6 @@
 
 > Another new feature again
 
-Made changes for Git Pull Demo
+> Made changes for Git Pull Demo
+
+> Made more changes for Git Pull/Fetch Demo
