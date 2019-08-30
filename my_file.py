@@ -8,4 +8,4 @@ def hi_there():
 
 
 def hi_there():
-    print("Zombies say hello too")
+    print("Updated python function with merge conflict")
